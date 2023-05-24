@@ -1,3 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;700&display=swap");
+body {
+  font-family: "Frank Ruhl Libre", Georgia, serif;
+}
 .logo {
   width: 100px;
   display: block;
@@ -14,7 +18,7 @@ img {
   display: block;
 }
 section p {
-  font-weight: 600;
+  font-weight: 700;
 }
 #ultimo-p {
   font-weight: 400;
@@ -27,6 +31,7 @@ nav {
   border-width: 1px;
   border-top-style: solid;
   margin-top: 10px;
+  color: #004d4d;
 }
 header {
   margin: 0 30vh;
