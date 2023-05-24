@@ -1,0 +1,7 @@
+ body{margin: 0 30vh;}
+ .logo {width: 100px;display: block; margin: auto ; }
+ h1{ text-align: center; }
+ #img-font{margin: 0 50vh}
+ img{width: 100%; display: block;}
+section p { font-weight: 600;}
+#ultimo-p {font-weight: 400; padding-left: 9px;}
