@@ -1,7 +1,45 @@
- body{margin: 0 30vh;}
- .logo {width: 100px;display: block; margin: auto ; }
- h1{ text-align: center; }
- #img-font{margin: 0 50vh}
- img{width: 100%; display: block;}
-section p { font-weight: 600;}
-#ultimo-p {font-weight: 400; padding-left: 9px;}
+.logo {
+  width: 100px;
+  display: block;
+  margin: auto;
+}
+h1 {
+  text-align: center;
+}
+#img-font {
+  text-align: center;
+}
+img {
+  width: 100%;
+  display: block;
+}
+section p {
+  font-weight: 600;
+}
+#ultimo-p {
+  font-weight: 400;
+  padding-left: 9px;
+}
+nav {
+  text-align: center;
+  border-top-color: #ffdb83;
+  background-color: rgb(255, 219, 133, 0.2);
+  border-width: 1px;
+  border-top-style: solid;
+  margin-top: 10px;
+}
+header {
+  margin: 0 30vh;
+}
+main {
+  margin: 0 30vh;
+}
+footer {
+  margin: 0 30vh;
+}
+h2 {
+  border-bottom-color: #cfe4e4;
+  border-bottom-style: solid;
+  border-width: 1.5px;
+  padding-bottom: 14px;
+}
